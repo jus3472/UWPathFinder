@@ -3,7 +3,7 @@
 ## 📱 Demo
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/0bd406a9-e0ba-4657-852e-c7a30c2c8ac8" />
+  <video src="https://github.com/user-attachments/assets/269d6a1a-52f7-481b-bfbb-d9f6cac26e55" />
 </div>
 
 ## 🛠️ Technologies
@@ -20,6 +20,7 @@
 - Campus Statistics UI
 - Shortest Path UI
 - Animated Path Visualization
+- SplashScreen Animation
 
 ## 🚀 Getting Started
 
