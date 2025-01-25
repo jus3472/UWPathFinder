@@ -6,7 +6,7 @@ import SwiftUI
 struct UWPathFinderApp: App {
     var body: some Scene {
         WindowGroup {
-            MainView()
+            SplashScreenView()
         }
     }
 }
